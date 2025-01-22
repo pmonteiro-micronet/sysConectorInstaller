@@ -1,0 +1,5 @@
+{
+    "ConnectionString": "Server= ;Database= ;User id= ;Integrated Security=True;MultipleActiveResultSets=True;",
+    "ServicePort": COLOCAR NUMERO DA PORTA,
+    "PdfSavePath": "COLOCAR CAMINHO PARA GUARDAR PDFS"
+}
